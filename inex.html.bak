@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@500&amp;family=Yusei+Magic&amp;display=swap"
+      rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/lightbox.min.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6"> <img alt="Bootstrap Image Preview" src="img/a.png"
+            class="img-fluid"> </div>
+        <div class="col-lg-6">
+          <h1><br>
+          </h1>
+          <h1 class=" my2"><span style="color: #304a6e;"><b>สาลินี อร่ามเวรนันท์</b></span></h1>
+          <h2><span style="color: #c0d0ef;">salinee Aramwachworanun</span></h2>
+          <h3><br>
+          </h3>
+          <h3><span style="color: #668dc0;"><b>ข้อมูลส่วนตัว</b></span></h3>
+          <div class="col-lg-12 px-1 "><img alt="Bootstrap Image Preview" src="img/g.JPG"
+              class="img-fluid"> </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <h3><br>
+              <span style="color: #668dc0;"></span></h3>
+            <h3><span style="color: #668dc0;"><b>ทักษะซอฟต์แวร์</b></span></h3>
+            <div class="row">
+              <div class="col-lg-4"> <img alt="Bootstrap Image Preview" src="img/b.PNG"
+                  class="img-fluid"> </div>
+              <div class="col-lg-4"> <img alt="Bootstrap Image Preview" src="img/c.PNG"
+                  class="img-fluid"> </div>
+              <div class="col-lg-4"> <img alt="Bootstrap Image Preview" src="img/d.PNG"
+                  class="img-fluid"> </div>
+            </div>
+            <h3><br>
+              <b><span style="color: #304a6e;"></span></b></h3>
+            <h3><span style="color: #668dc0;"><b>การศึกษา</b></span></h3>
+            <img alt="Bootstrap Image Preview" src="img/f.JPG" class="img-fluid">
+            <h3><span style="color: #668dc0;"><b>ความสามารถ</b></span></h3>
+            <span style="color: #668dc0;"> </span><img alt="Bootstrap Image Preview"
+              src="img/e.JPG" class="img-fluid"> </div>
+        </div>
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+crossorigin="anonymous"></script> </div>
+  </body>
+</html>
